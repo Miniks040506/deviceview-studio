@@ -1,0 +1,14 @@
+{
+  "name": "@deviceview/device-registry",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./dist/index.js",
+  "types": "./src/index.ts",
+  "dependencies": {
+    "@deviceview/shared": "workspace:*"
+  },
+  "scripts": {
+    "build": "node ../../scripts/build.mjs --pkg device-registry",
+    "typecheck": "node ../../scripts/typecheck.mjs"
+  }
+}

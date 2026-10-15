@@ -1,0 +1,23 @@
+version: '3.9'
+
+services:
+  deviceview-studio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: deviceview-studio
+    ports:
+      - "4000:4000"
+    environment:
+      - NODE_ENV=production
+      - PORT=4000
+      - HOST=0.0.0.0
+      - DEPLOYMENT_MODE=local
+      - BROWSER_DRIVER=auto
+      - CHROMIUM_PATH=/usr/bin/chromium
+      - MAX_CONCURRENT_SESSIONS=6
+      - SESSION_IDLE_TIMEOUT_MS=300000
+      - SESSION_MAX_LIFETIME_MS=1800000
+      - COMPANION_AUTH_SECRET=${COMPANION_AUTH_SECRET:-change-me-in-production}
+    shm_size: '2gb'
+    restart: unless-stopped

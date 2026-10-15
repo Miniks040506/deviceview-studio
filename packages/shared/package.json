@@ -1,0 +1,11 @@
+{
+  "name": "@deviceview/shared",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./dist/index.js",
+  "types": "./src/index.ts",
+  "scripts": {
+    "build": "node ../../scripts/build.mjs --pkg shared",
+    "typecheck": "node ../../scripts/typecheck.mjs"
+  }
+}

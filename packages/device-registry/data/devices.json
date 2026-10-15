@@ -1,0 +1,1287 @@
+[
+  {
+    "id": "iphone-18-pro-max",
+    "name": "iPhone 18 Pro Max",
+    "brand": "Apple",
+    "series": "iPhone 18 Series",
+    "category": "phone",
+    "releaseYear": 2026,
+    "viewport": {
+      "width": 440,
+      "height": 956
+    },
+    "physicalResolution": {
+      "width": 1320,
+      "height": 2868
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.9,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 54,
+      "screenBorderRadius": 46,
+      "bezelWidth": 10,
+      "frameColor": "#27272a",
+      "accentColor": "#6366f1",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 122,
+      "cutoutHeight": 35,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "verificationNotes": "Confirmed Apple Sept 2026 technical specifications (6.9-inch Super Retina XDR OLED, 2868x1320 @ 460 ppi, 440x956 CSS viewport @ 3x DPR).",
+    "sourceUrl": "https://www.apple.com/iphone-18-pro/specs/"
+  },
+  {
+    "id": "iphone-18-pro",
+    "name": "iPhone 18 Pro",
+    "brand": "Apple",
+    "series": "iPhone 18 Series",
+    "category": "phone",
+    "releaseYear": 2026,
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "physicalResolution": {
+      "width": 1206,
+      "height": 2622
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.3,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 52,
+      "screenBorderRadius": 44,
+      "bezelWidth": 10,
+      "frameColor": "#3f3f46",
+      "accentColor": "#818cf8",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 118,
+      "cutoutHeight": 34,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "verificationNotes": "Confirmed Apple Sept 2026 technical specifications (6.3-inch Super Retina XDR OLED, 2622x1206 @ 460 ppi, 402x874 CSS viewport @ 3x DPR).",
+    "sourceUrl": "https://www.apple.com/iphone-18-pro/specs/"
+  },
+  {
+    "id": "iphone-duo-folded",
+    "name": "iPhone Duo (Folded)",
+    "brand": "Apple",
+    "series": "iPhone 18 / Duo Series",
+    "category": "foldable",
+    "releaseYear": 2026,
+    "viewport": {
+      "width": 466,
+      "height": 678
+    },
+    "physicalResolution": {
+      "width": 1398,
+      "height": 2034
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 5.4,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 44,
+      "screenBorderRadius": 36,
+      "bezelWidth": 10,
+      "frameColor": "#18181b",
+      "accentColor": "#38bdf8",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 110,
+      "cutoutHeight": 32,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "13.7 : 20"
+    },
+    "verificationStatus": "estimated",
+    "verificationNotes": "Unveiled by Apple in Sept 2026 (5.4-inch outer display). CSS viewport 466x678 @ 3x DPR is marked est. on screensize.io pending wider browser telemetry.",
+    "sourceUrl": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/"
+  },
+  {
+    "id": "iphone-duo-unfolded",
+    "name": "iPhone Duo (Unfolded)",
+    "brand": "Apple",
+    "series": "iPhone 18 / Duo Series",
+    "category": "foldable",
+    "releaseYear": 2026,
+    "viewport": {
+      "width": 890,
+      "height": 626
+    },
+    "physicalResolution": {
+      "width": 2670,
+      "height": 1878
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 7.6,
+    "ppi": 460,
+    "defaultOrientation": "landscape",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 38,
+      "screenBorderRadius": 30,
+      "bezelWidth": 11,
+      "frameColor": "#18181b",
+      "accentColor": "#38bdf8",
+      "cutout": "none",
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "14.2 : 10"
+    },
+    "verificationStatus": "estimated",
+    "verificationNotes": "Unveiled by Apple in Sept 2026 (inner display opens in landscape). CSS viewport 890x626 @ 3x DPR is marked est. on screensize.io.",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "brand": "Apple",
+    "series": "iPhone 17 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 440,
+      "height": 956
+    },
+    "physicalResolution": {
+      "width": 1320,
+      "height": 2868
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.9,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 54,
+      "screenBorderRadius": 46,
+      "bezelWidth": 10,
+      "frameColor": "#43302b",
+      "accentColor": "#f97316",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 122,
+      "cutoutHeight": 35,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.webmobilefirst.com/en/devices/apple-iphone-17-pro-max-2025/"
+  },
+  {
+    "id": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "series": "iPhone 17 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "physicalResolution": {
+      "width": 1206,
+      "height": 2622
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.3,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 52,
+      "screenBorderRadius": 44,
+      "bezelWidth": 10,
+      "frameColor": "#3f3f46",
+      "accentColor": "#fb923c",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 118,
+      "cutoutHeight": 34,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.apple.com/il/iphone-17-pro/specs/"
+  },
+  {
+    "id": "iphone-17-air",
+    "name": "iPhone Air",
+    "brand": "Apple",
+    "series": "iPhone 17 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 420,
+      "height": 912
+    },
+    "physicalResolution": {
+      "width": 1260,
+      "height": 2736
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.5,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 52,
+      "screenBorderRadius": 44,
+      "bezelWidth": 9,
+      "frameColor": "#52525b",
+      "accentColor": "#38bdf8",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 118,
+      "cutoutHeight": 34,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "iphone-17",
+    "name": "iPhone 17",
+    "brand": "Apple",
+    "series": "iPhone 17 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "physicalResolution": {
+      "width": 1206,
+      "height": 2622
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.3,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 50,
+      "screenBorderRadius": 42,
+      "bezelWidth": 10,
+      "frameColor": "#334155",
+      "accentColor": "#60a5fa",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 118,
+      "cutoutHeight": 34,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.webmobilefirst.com/en/devices/apple-iphone-17-2025/"
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "brand": "Apple",
+    "series": "iPhone 16 Series",
+    "category": "phone",
+    "releaseYear": 2024,
+    "viewport": {
+      "width": 440,
+      "height": 956
+    },
+    "physicalResolution": {
+      "width": 1320,
+      "height": 2868
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.9,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 54,
+      "screenBorderRadius": 46,
+      "bezelWidth": 10,
+      "frameColor": "#3f3b37",
+      "accentColor": "#d97706",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 122,
+      "cutoutHeight": 35,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://screenmetriclab.com/devices/iphone-16-pro-max-screen-size"
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "brand": "Apple",
+    "series": "iPhone 16 Series",
+    "category": "phone",
+    "releaseYear": 2024,
+    "viewport": {
+      "width": 402,
+      "height": 874
+    },
+    "physicalResolution": {
+      "width": 1206,
+      "height": 2622
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.3,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 52,
+      "screenBorderRadius": 44,
+      "bezelWidth": 10,
+      "frameColor": "#3f3b37",
+      "accentColor": "#f59e0b",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 118,
+      "cutoutHeight": 34,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://screensizechecker.com/devices/iphone-viewport-sizes"
+  },
+  {
+    "id": "iphone-16-plus",
+    "name": "iPhone 16 Plus",
+    "brand": "Apple",
+    "series": "iPhone 16 Series",
+    "category": "phone",
+    "releaseYear": 2024,
+    "viewport": {
+      "width": 430,
+      "height": 932
+    },
+    "physicalResolution": {
+      "width": 1290,
+      "height": 2796
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.7,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 52,
+      "screenBorderRadius": 44,
+      "bezelWidth": 11,
+      "frameColor": "#1e3a8a",
+      "accentColor": "#3b82f6",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 120,
+      "cutoutHeight": 34,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.webmobilefirst.com/en/devices/apple-iphone-16-plus-2024/"
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16",
+    "brand": "Apple",
+    "series": "iPhone 16 Series",
+    "category": "phone",
+    "releaseYear": 2024,
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "physicalResolution": {
+      "width": 1179,
+      "height": 2556
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.1,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 48,
+      "screenBorderRadius": 40,
+      "bezelWidth": 11,
+      "frameColor": "#312e81",
+      "accentColor": "#6366f1",
+      "cutout": "dynamic-island",
+      "cutoutWidth": 116,
+      "cutoutHeight": 34,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://screensizechecker.com/devices/iphone-viewport-sizes"
+  },
+  {
+    "id": "iphone-16e",
+    "name": "iPhone 16e",
+    "brand": "Apple",
+    "series": "iPhone 16 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "physicalResolution": {
+      "width": 1170,
+      "height": 2532
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.1,
+    "ppi": 460,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 46,
+      "screenBorderRadius": 38,
+      "bezelWidth": 12,
+      "frameColor": "#27272a",
+      "accentColor": "#71717a",
+      "cutout": "notch",
+      "cutoutWidth": 146,
+      "cutoutHeight": 30,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "brand": "Samsung",
+    "series": "Galaxy S26 Series",
+    "category": "phone",
+    "releaseYear": 2026,
+    "viewport": {
+      "width": 412,
+      "height": 891
+    },
+    "physicalResolution": {
+      "width": 1440,
+      "height": 3120
+    },
+    "dpr": 3.5,
+    "screenDiagonalInches": 6.9,
+    "ppi": 498,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 28,
+      "screenBorderRadius": 22,
+      "bezelWidth": 8,
+      "frameColor": "#1e293b",
+      "accentColor": "#0ea5e9",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 14,
+      "cutoutHeight": 14,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "verificationNotes": "6.9-inch Dynamic AMOLED 2X QHD+ (1440x3120), CSS viewport 412x891 (DPR 3.5 at QHD+, 2.625 at default FHD+).",
+    "sourceUrl": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_5g-14320.php"
+  },
+  {
+    "id": "galaxy-s26-plus",
+    "name": "Galaxy S26+",
+    "brand": "Samsung",
+    "series": "Galaxy S26 Series",
+    "category": "phone",
+    "releaseYear": 2026,
+    "viewport": {
+      "width": 412,
+      "height": 891
+    },
+    "physicalResolution": {
+      "width": 1440,
+      "height": 3120
+    },
+    "dpr": 3.5,
+    "screenDiagonalInches": 6.7,
+    "ppi": 516,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 42,
+      "screenBorderRadius": 35,
+      "bezelWidth": 9,
+      "frameColor": "#1e3a8a",
+      "accentColor": "#38bdf8",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 14,
+      "cutoutHeight": 14,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://yesviz.com/devices/samsung-s26+/"
+  },
+  {
+    "id": "galaxy-s26",
+    "name": "Galaxy S26",
+    "brand": "Samsung",
+    "series": "Galaxy S26 Series",
+    "category": "phone",
+    "releaseYear": 2026,
+    "viewport": {
+      "width": 360,
+      "height": 780
+    },
+    "physicalResolution": {
+      "width": 1080,
+      "height": 2340
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.3,
+    "ppi": 416,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 40,
+      "screenBorderRadius": 34,
+      "bezelWidth": 9,
+      "frameColor": "#334155",
+      "accentColor": "#60a5fa",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 14,
+      "cutoutHeight": 14,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "galaxy-s25-ultra",
+    "name": "Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "series": "Galaxy S25 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 412,
+      "height": 891
+    },
+    "physicalResolution": {
+      "width": 1440,
+      "height": 3120
+    },
+    "dpr": 3.5,
+    "screenDiagonalInches": 6.9,
+    "ppi": 498,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 26,
+      "screenBorderRadius": 20,
+      "bezelWidth": 8,
+      "frameColor": "#27272a",
+      "accentColor": "#2563eb",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 14,
+      "cutoutHeight": 14,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://yesviz.com/viewport/"
+  },
+  {
+    "id": "galaxy-s25-plus",
+    "name": "Galaxy S25+",
+    "brand": "Samsung",
+    "series": "Galaxy S25 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 412,
+      "height": 891
+    },
+    "physicalResolution": {
+      "width": 1440,
+      "height": 3120
+    },
+    "dpr": 3.5,
+    "screenDiagonalInches": 6.7,
+    "ppi": 513,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 40,
+      "screenBorderRadius": 34,
+      "bezelWidth": 9,
+      "frameColor": "#334155",
+      "accentColor": "#3b82f6",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 14,
+      "cutoutHeight": 14,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://screensizechecker.com/devices/android-viewport-sizes"
+  },
+  {
+    "id": "galaxy-s25",
+    "name": "Galaxy S25",
+    "brand": "Samsung",
+    "series": "Galaxy S25 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 360,
+      "height": 780
+    },
+    "physicalResolution": {
+      "width": 1080,
+      "height": 2340
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.2,
+    "ppi": 416,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 40,
+      "screenBorderRadius": 34,
+      "bezelWidth": 9,
+      "frameColor": "#334155",
+      "accentColor": "#60a5fa",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 14,
+      "cutoutHeight": 14,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "19.5 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://screensizechecker.com/devices/android-viewport-sizes"
+  },
+  {
+    "id": "galaxy-z-fold-7-unfolded",
+    "name": "Galaxy Z Fold 7 (Unfolded)",
+    "brand": "Samsung",
+    "series": "Galaxy Z Series",
+    "category": "foldable",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 984,
+      "height": 1092
+    },
+    "physicalResolution": {
+      "width": 1968,
+      "height": 2184
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 8.0,
+    "ppi": 368,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 24,
+      "screenBorderRadius": 18,
+      "bezelWidth": 10,
+      "frameColor": "#18181b",
+      "accentColor": "#6366f1",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 12,
+      "cutoutHeight": 12,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "18 : 20"
+    },
+    "verificationStatus": "estimated",
+    "verificationNotes": "8.0-inch inner foldable display (1968x2184); CSS viewport 984x1092 @ 2x DPR per screensize.io.",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "galaxy-z-fold-7-cover",
+    "name": "Galaxy Z Fold 7 (Cover)",
+    "brand": "Samsung",
+    "series": "Galaxy Z Series",
+    "category": "foldable",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 412,
+      "height": 960
+    },
+    "physicalResolution": {
+      "width": 1080,
+      "height": 2520
+    },
+    "dpr": 2.625,
+    "screenDiagonalInches": 6.5,
+    "ppi": 422,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 26,
+      "screenBorderRadius": 20,
+      "bezelWidth": 9,
+      "frameColor": "#18181b",
+      "accentColor": "#6366f1",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 14,
+      "cutoutHeight": 14,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "21 : 9"
+    },
+    "verificationStatus": "estimated",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "galaxy-z-flip-7",
+    "name": "Galaxy Z Flip 7",
+    "brand": "Samsung",
+    "series": "Galaxy Z Series",
+    "category": "foldable",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 360,
+      "height": 840
+    },
+    "physicalResolution": {
+      "width": 1080,
+      "height": 2520
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.9,
+    "ppi": 397,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S948B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 42,
+      "screenBorderRadius": 35,
+      "bezelWidth": 10,
+      "frameColor": "#312e81",
+      "accentColor": "#a855f7",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 14,
+      "cutoutHeight": 14,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "21 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://yesviz.com/viewport/"
+  },
+  {
+    "id": "pixel-10-pro-xl",
+    "name": "Google Pixel 10 Pro XL",
+    "brand": "Google",
+    "series": "Pixel 10 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 448,
+      "height": 997
+    },
+    "physicalResolution": {
+      "width": 1344,
+      "height": 2992
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.8,
+    "ppi": 486,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel 10 Pro XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 48,
+      "screenBorderRadius": 40,
+      "bezelWidth": 10,
+      "frameColor": "#27272a",
+      "accentColor": "#10b981",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 16,
+      "cutoutHeight": 16,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "20 : 9"
+    },
+    "verificationStatus": "estimated",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "pixel-10-pro",
+    "name": "Google Pixel 10 Pro",
+    "brand": "Google",
+    "series": "Pixel 10 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 410,
+      "height": 914
+    },
+    "physicalResolution": {
+      "width": 1280,
+      "height": 2856
+    },
+    "dpr": 3.125,
+    "screenDiagonalInches": 6.3,
+    "ppi": 495,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel 10 Pro XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 46,
+      "screenBorderRadius": 38,
+      "bezelWidth": 10,
+      "frameColor": "#3f3f46",
+      "accentColor": "#34d399",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 16,
+      "cutoutHeight": 16,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "20 : 9"
+    },
+    "verificationStatus": "estimated",
+    "sourceUrl": "https://www.webmobilefirst.com/en/devices/google-pixel-10-pro-2026/"
+  },
+  {
+    "id": "pixel-10",
+    "name": "Google Pixel 10",
+    "brand": "Google",
+    "series": "Pixel 10 Series",
+    "category": "phone",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 412,
+      "height": 924
+    },
+    "physicalResolution": {
+      "width": 1080,
+      "height": 2424
+    },
+    "dpr": 2.625,
+    "screenDiagonalInches": 6.3,
+    "ppi": 422,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel 10 Pro XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 46,
+      "screenBorderRadius": 38,
+      "bezelWidth": 10,
+      "frameColor": "#1e293b",
+      "accentColor": "#2dd4bf",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 16,
+      "cutoutHeight": 16,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "20 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "pixel-9-pro-xl",
+    "name": "Google Pixel 9 Pro XL",
+    "brand": "Google",
+    "series": "Pixel 9 Series",
+    "category": "phone",
+    "releaseYear": 2024,
+    "viewport": {
+      "width": 448,
+      "height": 997
+    },
+    "physicalResolution": {
+      "width": 1344,
+      "height": 2992
+    },
+    "dpr": 3,
+    "screenDiagonalInches": 6.8,
+    "ppi": 486,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel 10 Pro XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 48,
+      "screenBorderRadius": 40,
+      "bezelWidth": 10,
+      "frameColor": "#27272a",
+      "accentColor": "#10b981",
+      "cutout": "punch-hole-center",
+      "cutoutWidth": 16,
+      "cutoutHeight": 16,
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "20 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://phone-simulator.com/devices/google-pixel-9-pro-xl"
+  },
+  {
+    "id": "ipad-pro-13-m5",
+    "name": "iPad Pro 13\" (M5 / M4)",
+    "brand": "Apple",
+    "series": "iPad Series",
+    "category": "tablet",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 1032,
+      "height": 1376
+    },
+    "physicalResolution": {
+      "width": 2064,
+      "height": 2752
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 13.0,
+    "ppi": 264,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 36,
+      "screenBorderRadius": 24,
+      "bezelWidth": 16,
+      "frameColor": "#27272a",
+      "accentColor": "#8b5cf6",
+      "cutout": "none",
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "3 : 4"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "ipad-pro-11-m5",
+    "name": "iPad Pro 11\" (M5 / M4)",
+    "brand": "Apple",
+    "series": "iPad Series",
+    "category": "tablet",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 834,
+      "height": 1210
+    },
+    "physicalResolution": {
+      "width": 1668,
+      "height": 2420
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 11.0,
+    "ppi": 264,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 34,
+      "screenBorderRadius": 22,
+      "bezelWidth": 15,
+      "frameColor": "#27272a",
+      "accentColor": "#8b5cf6",
+      "cutout": "none",
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "3 : 4.3"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "ipad-air-13-m4",
+    "name": "iPad Air 13\" (M3 / M4)",
+    "brand": "Apple",
+    "series": "iPad Series",
+    "category": "tablet",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 1024,
+      "height": 1366
+    },
+    "physicalResolution": {
+      "width": 2048,
+      "height": 2732
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 13.0,
+    "ppi": 264,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 36,
+      "screenBorderRadius": 24,
+      "bezelWidth": 16,
+      "frameColor": "#334155",
+      "accentColor": "#38bdf8",
+      "cutout": "none",
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "3 : 4"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "ipad-air-11-m4",
+    "name": "iPad Air 11\" (M3 / M4)",
+    "brand": "Apple",
+    "series": "iPad Series",
+    "category": "tablet",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 820,
+      "height": 1180
+    },
+    "physicalResolution": {
+      "width": 1640,
+      "height": 2360
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 11.0,
+    "ppi": 264,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 34,
+      "screenBorderRadius": 22,
+      "bezelWidth": 16,
+      "frameColor": "#334155",
+      "accentColor": "#38bdf8",
+      "cutout": "none",
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "13 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "ipad-mini-a17",
+    "name": "iPad mini (A17 Pro)",
+    "brand": "Apple",
+    "series": "iPad Series",
+    "category": "tablet",
+    "releaseYear": 2024,
+    "viewport": {
+      "width": 744,
+      "height": 1133
+    },
+    "physicalResolution": {
+      "width": 1488,
+      "height": 2266
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 8.3,
+    "ppi": 326,
+    "defaultOrientation": "portrait",
+    "userAgent": "Mozilla/5.0 (iPad; CPU OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+    "touchCapable": true,
+    "frame": {
+      "borderRadius": 32,
+      "screenBorderRadius": 20,
+      "bezelWidth": 15,
+      "frameColor": "#3f3f46",
+      "accentColor": "#a855f7",
+      "cutout": "none",
+      "hasHomeIndicator": true,
+      "hasSideButtons": true,
+      "aspectRatioLabel": "3 : 4.5"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "macbook-pro-16-m5",
+    "name": "MacBook Pro 16\" (M5)",
+    "brand": "Apple",
+    "series": "Mac & Desktop",
+    "category": "laptop",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 1728,
+      "height": 1117
+    },
+    "physicalResolution": {
+      "width": 3456,
+      "height": 2234
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 16.2,
+    "ppi": 254,
+    "defaultOrientation": "landscape",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "touchCapable": false,
+    "frame": {
+      "borderRadius": 20,
+      "screenBorderRadius": 12,
+      "bezelWidth": 14,
+      "frameColor": "#18181b",
+      "accentColor": "#6366f1",
+      "cutout": "macbook-notch",
+      "cutoutWidth": 160,
+      "cutoutHeight": 24,
+      "hasHomeIndicator": false,
+      "hasSideButtons": false,
+      "aspectRatioLabel": "16 : 10.3"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "macbook-air-13-m5",
+    "name": "MacBook Air 13\" (M4 / M5)",
+    "brand": "Apple",
+    "series": "Mac & Desktop",
+    "category": "laptop",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 1470,
+      "height": 956
+    },
+    "physicalResolution": {
+      "width": 2560,
+      "height": 1664
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 13.6,
+    "ppi": 224,
+    "defaultOrientation": "landscape",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "touchCapable": false,
+    "frame": {
+      "borderRadius": 20,
+      "screenBorderRadius": 12,
+      "bezelWidth": 14,
+      "frameColor": "#27272a",
+      "accentColor": "#38bdf8",
+      "cutout": "macbook-notch",
+      "cutoutWidth": 150,
+      "cutoutHeight": 24,
+      "hasHomeIndicator": false,
+      "hasSideButtons": false,
+      "aspectRatioLabel": "16 : 10.4"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "desktop-fhd-1080p",
+    "name": "Desktop Full HD (1080p)",
+    "brand": "Generic",
+    "series": "Standard Monitors",
+    "category": "desktop",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 1920,
+      "height": 1080
+    },
+    "physicalResolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "dpr": 1,
+    "screenDiagonalInches": 24.0,
+    "ppi": 92,
+    "defaultOrientation": "landscape",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "touchCapable": false,
+    "frame": {
+      "borderRadius": 14,
+      "screenBorderRadius": 8,
+      "bezelWidth": 14,
+      "frameColor": "#1e293b",
+      "accentColor": "#64748b",
+      "cutout": "none",
+      "hasHomeIndicator": false,
+      "hasSideButtons": false,
+      "aspectRatioLabel": "16 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  },
+  {
+    "id": "desktop-qhd-1440p",
+    "name": "Studio Display / QHD (1440p)",
+    "brand": "Apple",
+    "series": "Mac & Desktop",
+    "category": "desktop",
+    "releaseYear": 2025,
+    "viewport": {
+      "width": 2560,
+      "height": 1440
+    },
+    "physicalResolution": {
+      "width": 5120,
+      "height": 2880
+    },
+    "dpr": 2,
+    "screenDiagonalInches": 27.0,
+    "ppi": 218,
+    "defaultOrientation": "landscape",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "touchCapable": false,
+    "frame": {
+      "borderRadius": 16,
+      "screenBorderRadius": 10,
+      "bezelWidth": 16,
+      "frameColor": "#27272a",
+      "accentColor": "#6366f1",
+      "cutout": "none",
+      "hasHomeIndicator": false,
+      "hasSideButtons": false,
+      "aspectRatioLabel": "16 : 9"
+    },
+    "verificationStatus": "verified",
+    "sourceUrl": "https://www.screensize.io/devices.html"
+  }
+]
